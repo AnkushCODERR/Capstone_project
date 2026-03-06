@@ -15,8 +15,8 @@ from pathlib import Path
 import os
 
 # ── UPDATE THESE PATHS ─────────────────────────────────────
-NYU_LABELS_PATH = r"C:\Users\Ankush\Desktop\Btech\Capstone\nyu_dataset\labels"
-NYU_OUTPUT_PATH = r"C:\Users\Ankush\Desktop\Btech\Capstone\nyu_dataset\labels_fixed"
+NYU_LABELS_PATH = r"C:\Users\Ankush\Desktop\Btech\Capstone\Capstone_project\extracted\labels"
+NYU_OUTPUT_PATH = r"C:\Users\Ankush\Desktop\Btech\Capstone\Capstone_project\extracted\labels_fixed"
 # ──────────────────────────────────────────────────────────
 
 # Nice colormap for class visualization
